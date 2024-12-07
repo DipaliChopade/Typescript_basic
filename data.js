@@ -1,0 +1,11 @@
+var no1 = 11;
+var no2 = 11;
+console.log(no1);
+console.log(no2);
+var name1 = "TypeScript";
+var name2 = "Typescript";
+console.log(name1);
+console.log(name2);
+var result = true;
+console.log(result);
+console.log(typeof (result));
